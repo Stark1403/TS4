@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  TestTS4
+
+  Created by cesar.torres on 15/06/23.
+  
+*/
+
+// MARK: Genericos
+"Generic.errorService" = "Lo sentimos... Tenemos un problema técnico, por favor intenta nuevamente dentro de unos minutos.";
+"Generic.notEthernet" = "Revisa tu conexión a internet.";
+"Generic.errorGetInformation" = "Error al obtener la informacion.";
+// MARK: Perros
+"DogsView.title" = "Dogs We Love";

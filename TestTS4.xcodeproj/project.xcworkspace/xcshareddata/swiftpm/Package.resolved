@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-ios",
+      "state" : {
+        "branch" : "master",
+        "revision" : "1f48b65c989bbcf2071472d0c8c055401a58da45"
+      }
+    },
+    {
+      "identity" : "swiftmessages",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftKickMobile/SwiftMessages",
+      "state" : {
+        "branch" : "master",
+        "revision" : "4e49214f64f949cc00af225e1f6f4457f6fd62d5"
+      }
+    }
+  ],
+  "version" : 2
+}
